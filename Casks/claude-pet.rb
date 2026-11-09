@@ -1,6 +1,6 @@
 cask "claude-pet" do
-  version "0.1.4"
-  sha256 "f8aefc9ae30faeba88bf108ef71f58e0d49db3a28f9e383acb9057d3f1f087eb"
+  version "0.1.5"
+  sha256 "50ca5e65b209e5b2c991d5e7012cd27b09d34f4b9d97562de8716b3c75dfd99d"
 
   url "https://github.com/Undefined1228/claude-pet-releases/releases/download/v#{version}/ClaudePet-#{version}.zip"
   name "Claude Pet"
